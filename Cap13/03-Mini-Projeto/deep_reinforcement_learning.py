@@ -420,3 +420,5 @@ def playaGame(e,sess,inputState, prediction, Qoutputs):
 
 if __name__ == "__main__":
     tainNetwork()
+
+    

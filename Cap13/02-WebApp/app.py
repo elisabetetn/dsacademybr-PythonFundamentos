@@ -3,7 +3,7 @@ from werkzeug import generate_password_hash, check_password_hash
 # pip install flask-mysql (Mac/Linux)
 # pip install Flask-MySQL (Windows)
 from flaskext.mysql import MySQL
-
+ 
 
 mysql = MySQL()
 app = Flask(__name__)

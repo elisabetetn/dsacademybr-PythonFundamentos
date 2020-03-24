@@ -6,3 +6,4 @@ python deep_reinforcement_learning.py
 Para executar a app, digite:
 
 python app.py
+
