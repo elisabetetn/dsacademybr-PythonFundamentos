@@ -133,3 +133,5 @@ def read_data(data_dir, force=False):
         test_images = save["test_images"]
 
     return train_images, train_labels, validation_images, validation_labels, test_images
+
+    
